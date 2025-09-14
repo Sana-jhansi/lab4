@@ -1,6 +1,9 @@
 {
   "name": "sana-jhansi-lab4",
   "version": "7.7.7",
+  publishConfig": {
+            "access": "public"
+          }
   "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
   "license": "MIT",
