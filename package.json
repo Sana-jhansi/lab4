@@ -1,7 +1,11 @@
 {
-  "name": "@sana-jhansi/lab4",
+  "name": "@sana-jhansi/npm-package",
   "version": "7.7.7",
   "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sana-jhansi/lab4.git"
+  },
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
   "license": "MIT",
   "scripts": {
